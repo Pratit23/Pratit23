@@ -15,4 +15,4 @@ Skills:  / REACT / REACT NATIVE / NODEJS / FIREBASE / PYTHON / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratit23&s&theme=tokyonight&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pratit23&theme=blue-green)  
 
-![Profile views](https://gpvc.arturio.dev/Pratit23)   
+![Profile views](https://gpvc.arturio.dev/Pratit23)    
