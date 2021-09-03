@@ -1,4 +1,4 @@
-### Hi there 👋,  
+**### Hi there 👋,  
 #### I am Pratit, I love developing websites in React  and building custom mechanical keyboards
 Always trying to learn more and develop better projects
 Have been working on community projects to solve real life problems in India for the past couple of years
@@ -20,3 +20,4 @@ Skills:  / REACT / REACT NATIVE / NODEJS / FIREBASE / PYTHON / HTML / CSS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pratit2)  
 
 ![Profile views](https://gpvc.arturio.dev/Pratit2)  
+**
